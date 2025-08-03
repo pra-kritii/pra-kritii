@@ -1,4 +1,4 @@
-💫 About Me:
+#💫 About Me:
 👋Hello! I'm Prakriti Kesharwani<br><br>🔍 Aspiring Data Analyst | Turning data into actionable insights  <br>📊 Passionate about uncovering patterns, solving problems, and driving smart decisions through data.<br>
 
 
